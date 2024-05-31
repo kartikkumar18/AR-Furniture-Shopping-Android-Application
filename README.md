@@ -1,4 +1,4 @@
-# untitled
+# Augmented Reality based online furniture application
 
 A new Flutter project.
 
